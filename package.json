@@ -1,0 +1,26 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "This is a simply chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+     "node": "8.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-Arinze/chat-application.git"
+  },
+  "author": "Prince Arinzechukwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince-Arinze/chat-application/issues"
+  },
+  "homepage": "https://github.com/Prince-Arinze/chat-application#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+} 
